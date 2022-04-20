@@ -1,1 +1,2 @@
-# CS-260-Creative-Project-3
+# Fantasy-Basketball
+A fantasy basketball trading card game built with Vue
